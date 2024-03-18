@@ -1,12 +1,18 @@
-# HeFDI Data Week 2023
+<!--
+SPDX-FileCopyrightText: 2023 Johannes Keyser, Amalaswintha Leh
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
+# Eine Einführung in statistische Programmierung mit Python
 
 - Thema: Eine Einführung in statistische Programmierung mit Python
+- Rahmen: HeFDI Data Week 2023
 - Referent.in(nen):
   - Johannes Keyser (Justus-Liebig-Universität Gießen)
   - Amalaswintha Leh (Justus-Liebig-Universität Gießen)
 - Datum: 15. Juni 2023
 - DOI-Link: <https://doi.org/10.5281/zenodo.8089459>
-- Lizenzinformation: Sofern nicht anders angegeben und mit Ausnahme von Logos unterliegen alle Materialien der Creative Commons Attribution 4.0 International (CC BY 4.0), siehe auch Datei LICENSE.txt.
 
 ## Abstract
 
@@ -15,15 +21,24 @@ Im Fokus stehen Datenvisualisierung, sowie deskriptive und inferenzstatistische 
 Zusätzlich stehen begleitende Lernmaterialien (Jupyter Notebooks) zur selbständigen Vertiefung zur Verfügung.
 Es werden keine Vorkenntnisse von Programmierung oder Statistik benötigt, besonders Anfänger.innen sind willkommen.
 
+## Materialien
+
 ### Jupyter Notebooks
 
-Große Teile der Materialien liegen als Jupyter Notebooks im Unterordner `notebooks`.
-Neben den änder- und ausführbaren Notebooks im Format `.ipynb` sind dort auch exportierte PDF-Dateien mit demselben Inhalt zu finden, mit Dateinamenendung `.pdf`.
+Große Teile der Materialien liegen als Jupyter Notebooks im Unterordner [notebooks](notebooks).
+Diese Notebooks (mit Dateiendung `.ipynb`) sind ausführbar und änderbar.
 Die Benutzung von Jupyter Notebooks setzt eine Python-Umgebung voraus; eine Anleitung ist erhältlich unter <https://jupyter.org/install>.
+
+### PDF-Dateien
+
+Exportierte PDF-Dateien mit denselben Inhalten sind erhältlich unter <https://doi.org/10.5281/zenodo.8089459>.
 Für das Lesen der PDF-Dateien ist nur ein PDF-Leser erforderlich.
 
-## Zur HeFDI Data Week
+## Lizenzinformation
 
-Die dreitägige HeFDI Data Week ermöglicht es Forschenden, Lehrenden und allen weiteren Interessierten, Themen und Angebote des Forschungsdatenmanagements kennenzulernen und zu erproben.
-Darüber hinaus werden den Teilnehmenden Daten- und Coding-Kompetenzen vermittelt sowie Dienste und Angebote verschiedener hessischer Infrastruktur-Einrichtungen und Zentren vorgestellt.
-Die HeFDI Data Week ist ein Angebot der Landesinitiative HeFDI - Hessische Forschungsdateninfrastrukturen, welche vom Hessischen Ministerium für Wissenschaft und Kunst (HMWK) finanziert wird.
+Sofern nicht anders angegeben und mit Ausnahme von Logos unterliegen alle Materialien der Creative Commons Attribution 4.0 International (CC-BY-4.0), siehe [LICENSES/CC-BY-SA-4.0.txt](LICENSES/CC-BY-SA-4.0.txt).
+Übersetzungen und Zusammenfassungen sind erhältlich unter <https://creativecommons.org/licenses/by-sa/4.0/deed.de>.
+
+Dieses Projekt ist [REUSE-konform](https://reuse.software/):
+Für die meisten Textdateien sind die Lizenzinformationen im Dateikopf.
+Für alle anderen Dateien sind die Lizenzinformationen in einer Textdatei mit demselben Namen und Dateiendung `.license`.

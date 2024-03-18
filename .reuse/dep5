@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Eine Einführung in statistische Programmierung mit Python
+Upstream-Contact: Johannes Keyser <johannes.keyser@sport.uni-giessen.de>
+Source: https://zenodo.org/records/8089459
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
