@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Eine Einführung in statistische Programmierung mit Python
 
-<a href="https://zenodo.org/records/8089459"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8089459.svg"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8089459.svg)](https://doi.org/10.5281/zenodo.8089459)
 
 - Thema: Eine Einführung in statistische Programmierung mit Python
 - Rahmen: HeFDI Data Week 2023
