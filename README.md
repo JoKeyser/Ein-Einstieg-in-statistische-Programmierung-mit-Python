@@ -25,21 +25,23 @@ Es werden keine Vorkenntnisse von Programmierung oder Statistik benötigt, beson
 
 ## Materialien
 
+_Dieses Projekt beinhaltet nur editierbaren Formate; exportierte PDF-Dateien mit denselben Inhalten sind erhältlich unter <https://doi.org/10.5281/zenodo.8089459>._
+
+### Foliensatz
+
+Die verwendeten Folienmaterialien liegen im Unterordner [slides](slides).
+Für möglichst einfache Weiterverwendung sind die Folien per Markdown-Datei definiert, siehe [slides/README.md](slides/README.md) für mehr Informationen.
+
 ### Jupyter Notebooks
 
 Große Teile der Materialien liegen als Jupyter Notebooks im Unterordner [notebooks](notebooks).
-Diese Notebooks (mit Dateiendung `.ipynb`) sind ausführbar und änderbar.
-Die Benutzung von Jupyter Notebooks setzt eine Python-Umgebung voraus; eine Anleitung ist erhältlich unter <https://jupyter.org/install>.
+Diese Notebooks (mit Dateiendung `.ipynb`) sind auf GitHub, GitLab, usw. per Webbrowser lesbar.
+Das Ausführen und Ändern setzt eine Python-Umgebung voraus; eine Anleitung ist erhältlich unter <https://jupyter.org/install>.
 
-### PDF-Dateien
-
-Exportierte PDF-Dateien mit denselben Inhalten sind erhältlich unter <https://doi.org/10.5281/zenodo.8089459>.
-Für das Lesen der PDF-Dateien ist nur ein PDF-Leser erforderlich.
-
-## Lizenzinformation
+## Lizenz
 
 Sofern nicht anders angegeben und mit Ausnahme von Logos unterliegen alle Materialien der Creative Commons Attribution 4.0 International (CC-BY-4.0), siehe [LICENSES/CC-BY-SA-4.0.txt](LICENSES/CC-BY-SA-4.0.txt).
-Übersetzungen und Zusammenfassungen sind erhältlich unter <https://creativecommons.org/licenses/by-sa/4.0/deed.de>.
+Übersetzungen und Zusammenfassungen der Lizenz sind erhältlich unter <https://creativecommons.org/licenses/by-sa/4.0/deed.de>.
 
 Dieses Projekt ist [REUSE-konform](https://reuse.software/):
 Für die meisten Textdateien sind die Lizenzinformationen im Dateikopf.
